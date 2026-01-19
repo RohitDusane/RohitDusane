@@ -73,6 +73,7 @@ Time series prediction using Simple RNN for NSE multivariate stock data
 ### 📊 **Healthcare Analytics Dashboard** | [![Repo](https://img.shields.io/badge/GitHub-View-black?style=flat&logo=github)](https://github.com/RohitDusane/Healthcare-Analytics)
 Power BI dashboard analyzing 450K+ patient records for wait-time optimization  
 **Impact**: 23% reduction in average wait times
+
 ---
 
 ## 🛠️ Technical Arsenal
