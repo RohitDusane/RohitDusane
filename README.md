@@ -6,7 +6,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-dusane)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:stat.data247@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](rohitdusane.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](github.com/RohitDusane)
 
 </div>
 
@@ -252,7 +252,7 @@ I'm always interested in discussing **ML/DS opportunities**, **MLOps best practi
 
 📧 **Email**: [stat.data247@gmail.com](mailto:stat.data247@gmail.com)  
 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/rohit-dusane)
-🌐 **Portfolio**: [View my work](rohitdusane.github.io/portfolio)  
+🌐 **Portfolio**: [View my work](github.com/RohitDusane)  
 
 ---
 
