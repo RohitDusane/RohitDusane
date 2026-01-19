@@ -189,9 +189,7 @@ Power BI dashboard analyzing 450K+ patient records for wait-time optimization
 
 I'm always interested in discussing **ML/DS opportunities**, **MLOps best practices**, or **collaboration on impactful projects**.
 
-📧 **Email**: [stat.data247@gmail.com](mailto:stat.data247@gmail.com)  
-💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/rohit-dusane)
-🌐 **Portfolio**: [View my work](github.com/RohitDusane)  
+📧 **Email**: [stat.data247@gmail.com](mailto:stat.data247@gmail.com)   💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/rohit-dusane) 🌐 **Portfolio**: [View my work](github.com/RohitDusane)  
 
 ---
 
