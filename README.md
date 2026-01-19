@@ -46,95 +46,33 @@ Technical Stack:
 
 ## 🚀 Featured MLOps Projects
 
-### 🏥 **End-to-End Customer Churn Prediction System**
-[![Repo](https://img.shields.io/badge/Repo-customer--churn--ml-black?style=flat&logo=github)](https://github.com/RohitDusane/customer-churn-ml)
+### 🏥 **Customer Churn Prediction System** | [![Repo](https://img.shields.io/badge/GitHub-View-black?style=flat&logo=github)](https://github.com/RohitDusane/customer-churn-ml)
+End-to-end MLOps pipeline with FastAPI, Docker, DVC & MLflow for banking churn prediction  
+**Impact**: 92% accuracy • 85% latency reduction • Real-time API predictions
 
-**Production-ready ML system** for banking customer churn prediction with complete MLOps lifecycle
-- **Tech Stack**: Python, FastAPI, Docker, DVC, MLflow, Scikit-learn
-- **Pipeline**: Automated data ingestion → validation → transformation → model training → deployment
-- **Deployment**: RESTful API with real-time prediction capabilities
-- **Features**: Model versioning, experiment tracking, automated retraining workflows
+### ⚙️ **MLOps with Jenkins & GCP** | [![Repo](https://img.shields.io/badge/GitHub-View-black?style=flat&logo=github)](https://github.com/RohitDusane/MLOPS_JENKINS)
+Automated ML lifecycle with Jenkins CI/CD and GCP cloud integration  
+**Impact**: Deployment time reduced from days to hours
 
-**Impact**: Reduced customer attrition prediction latency by 85% with 92% accuracy
+### 🐳 **GKE ML Deployment** | [![Repo](https://img.shields.io/badge/GitHub-View-black?style=flat&logo=github)](https://github.com/RohitDusane/mlops-fastapi-docker-gke)
+Kubernetes-orchestrated ML serving with GitHub Actions CI/CD on Google Kubernetes Engine  
+**Impact**: Handles 10K+ requests/min with auto-scaling
 
----
+### 🔄 **Serverless MLOps on Cloud Run** | [![Repo](https://img.shields.io/badge/GitHub-View-black?style=flat&logo=github)](https://github.com/RohitDusane/MLOps-DVC-Git-Actions)
+DVC + GitHub Actions pipeline deploying to GCP Cloud Run with Artifact Registry  
+**Impact**: 60% cost reduction through serverless architecture
 
-### ⚙️ **MLOps Pipeline with Jenkins & GCP Integration**
-[![Repo](https://img.shields.io/badge/Repo-MLOPS__JENKINS-black?style=flat&logo=github)](https://github.com/RohitDusane/MLOPS_JENKINS)
+### 🌊 **Airflow ML Orchestration** | [![Repo](https://img.shields.io/badge/GitHub-View-black?style=flat&logo=github)](https://github.com/RohitDusane/MLOps-AIRFLOW-DOCKER)
+Production-ready Apache Airflow DAGs with Docker containerization  
+**Impact**: 99.9% uptime with automated error recovery
 
-**Complete MLOps infrastructure** featuring cloud integration and automated CI/CD
-- **Tech Stack**: Jenkins, GCP (Cloud Storage, Compute Engine), Docker, Python
-- **Architecture**: Automated ML pipelines with continuous training & evaluation
-- **CI/CD**: Jenkins-based automation for model training, testing, deployment
-- **Cloud Integration**: Seamless GCP cloud services integration for scalable ML operations
+### 📈 **Stock Price RNN Forecasting** | [![Repo](https://img.shields.io/badge/GitHub-View-black?style=flat&logo=github)](https://github.com/RohitDusane/Stock-Price-Prediction-Simple-RNN)
+Time series prediction using Simple RNN for NSE multivariate stock data  
+**Impact**: RMSE < 0.02 with strong trend prediction
 
-**Achievement**: Automated entire ML lifecycle reducing deployment time from days to hours
-
----
-
-### 🐳 **Kubernetes-Based ML Deployment on GKE**
-[![Repo](https://img.shields.io/badge/Repo-mlops--fastapi--docker--gke-black?style=flat&logo=github)](https://github.com/RohitDusane/mlops-fastapi-docker-gke)
-
-**Cloud-native ML deployment** with containerization and orchestration
-- **Tech Stack**: FastAPI, Docker, Kubernetes (GKE), GCP Container Registry, GitHub Actions
-- **Pipeline**: Automated containerization → registry push → GKE deployment
-- **Orchestration**: Kubernetes for scalable, resilient model serving
-- **CI/CD**: GitHub Actions for automated testing and deployment
-
-**Scalability**: Handles 10,000+ requests/min with auto-scaling capabilities
-
----
-
-### 🔄 **MLOps with DVC & GitHub Actions for GCP Cloud Run**
-[![Repo](https://img.shields.io/badge/Repo-MLOps--DVC--Git--Actions-black?style=flat&logo=github)](https://github.com/RohitDusane/MLOps-DVC-Git-Actions)
-
-**Complete CI/CD pipeline** for ML model deployment on serverless infrastructure
-- **Tech Stack**: DVC, GitHub Actions, GCP Cloud Run, Artifact Registry, Docker
-- **Version Control**: DVC for data & model versioning across experiments
-- **Automation**: Full lifecycle automation from build → push → deploy
-- **Serverless**: Cloud Run for cost-effective, auto-scaling model serving
-
-**Efficiency**: Reduced infrastructure costs by 60% using serverless architecture
-
----
-
-### 🌊 **Apache Airflow ML Pipeline Orchestration**
-[![Repo](https://img.shields.io/badge/Repo-MLOps--AIRFLOW--DOCKER-black?style=flat&logo=github)](https://github.com/RohitDusane/MLOps-AIRFLOW-DOCKER)
-
-**Production-ready ML workflow orchestration** using Airflow and Docker
-- **Tech Stack**: Apache Airflow, Astronomer Astro CLI, Docker, Python
-- **Orchestration**: Complex DAG workflows for automated ML pipelines
-- **Containerization**: Docker-based deployment on Windows environments
-- **Scheduling**: Automated training, validation, and deployment schedules
-
-**Reliability**: 99.9% pipeline uptime with automated error recovery
-
----
-
-### 📈 **Stock Price Forecasting with Simple RNN**
-[![Repo](https://img.shields.io/badge/Repo-Stock--Price--Prediction--Simple--RNN-black?style=flat&logo=github)](https://github.com/RohitDusane/Stock-Price-Prediction-Simple-RNN)
-
-**Time series forecasting** using Recurrent Neural Networks for NSE stock data
-- **Tech Stack**: Keras, TensorFlow, NumPy, Pandas, Matplotlib
-- **Model**: Simple RNN architecture for multivariate time series prediction
-- **Application**: Forecasting future stock values from historical price patterns
-- **Preprocessing**: Feature engineering and data normalization for financial data
-
-**Performance**: RMSE < 0.02 on validation set with strong trend prediction
-
----
-
-### 📊 **Healthcare Analytics Dashboard - Power BI**
-[![Repo](https://img.shields.io/badge/Repo-Healthcare--Analytics-black?style=flat&logo=github)](https://github.com/RohitDusane/Healthcare-Analytics)
-
-**Interactive analytics solution** for healthcare wait-list management and insights
-- **Tech Stack**: Power BI, DAX, Power Query, Excel
-- **Analytics**: Patient waiting time analysis across specialties, age profiles, time bands
-- **Data Engineering**: ETL pipeline processing 450K+ patient records
-- **Visualizations**: Dynamic dashboards with drill-down capabilities
-
-**Impact**: Enabled data-driven decisions reducing average wait times by 23%
-
+### 📊 **Healthcare Analytics Dashboard** | [![Repo](https://img.shields.io/badge/GitHub-View-black?style=flat&logo=github)](https://github.com/RohitDusane/Healthcare-Analytics)
+Power BI dashboard analyzing 450K+ patient records for wait-time optimization  
+**Impact**: 23% reduction in average wait times
 ---
 
 ## 🛠️ Technical Arsenal
